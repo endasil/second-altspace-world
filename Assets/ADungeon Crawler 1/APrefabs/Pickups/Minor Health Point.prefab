@@ -103,7 +103,6 @@ GameObject:
   - component: {fileID: 6239865499450786601}
   - component: {fileID: 6206883355591781442}
   - component: {fileID: 5907769159840038493}
-  - component: {fileID: 5122448494959563864}
   - component: {fileID: 2297705857513727482}
   m_Layer: 0
   m_Name: Minor Health Point
@@ -174,20 +173,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!114 &5122448494959563864
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8013775822463217029}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1a1fa38f11d86bd43bec882d036e1492, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  power: 25
-  pickupSound: {fileID: 8300000, guid: 929d0467b3594f74886739cf54329177, type: 3}
 --- !u!65 &2297705857513727482
 BoxCollider:
   m_ObjectHideFlags: 0
