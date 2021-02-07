@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 86c591ebd74142c4d93243d9fa9544da
 ModelImporter:
-  serializedVersion: 19300
+  serializedVersion: 19301
   internalIDToNameTable:
   - first:
       1: 100000
@@ -306,7 +306,7 @@ ModelImporter:
       takeName: 
       internalID: 0
       firstFrame: 0
-      lastFrame: 240
+      lastFrame: 239
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -363,7 +363,7 @@ ModelImporter:
       name: waitingforbattle
       takeName: 
       internalID: 0
-      firstFrame: 264
+      firstFrame: 266
       lastFrame: 314
       wrapMode: 0
       orientationOffsetY: 0
@@ -523,6 +523,7 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
